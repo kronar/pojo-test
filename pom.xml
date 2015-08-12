@@ -15,7 +15,7 @@
             <groupId>com.blogspot.test-failed</groupId>
             <artifactId>qa-annotations</artifactId>
             <version>1.0</version>
-            <scope>compile</scope>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 
